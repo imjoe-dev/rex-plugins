@@ -101,3 +101,7 @@ rex do ./dev.lua --action projects_open dir=~/code/app launcher=terminal place=t
 ```
 
 Each plugin is a folder with an `init.lua` that exports `setup`.
+
+## License
+
+[MIT](LICENSE)
